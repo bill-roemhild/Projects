@@ -1,0 +1,14 @@
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\bin\Release\Sloto-Matic.exe.config
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\bin\Release\Pearl.ini
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\bin\Release\Sloto-Matic.exe
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\bin\Release\Sloto-Matic.pdb
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\bin\Release\Sloto-Matic.xml
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Release\Sloto_Matic.Form1.resources
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Release\Sloto_Matic.Resources.resources
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Release\Sloto_Matic.TabInfo.resources
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Release\Sloto_Matic.TabName.resources
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Release\Sloto-Matic.vbproj.GenerateResource.Cache
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Release\Sloto-Matic.exe
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Release\Sloto-Matic.xml
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Release\Sloto-Matic.pdb
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Release\Sloto-Matic.vbprojResolveAssemblyReference.cache

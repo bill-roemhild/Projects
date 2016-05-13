@@ -1,0 +1,31 @@
+C:\Users\bill\Google Drive\VS\Sloto-Matic\Sloto-Matic\bin\Debug\Sloto-Matic.exe.config
+C:\Users\bill\Google Drive\VS\Sloto-Matic\Sloto-Matic\bin\Debug\Sloto-Matic.exe
+C:\Users\bill\Google Drive\VS\Sloto-Matic\Sloto-Matic\bin\Debug\Sloto-Matic.pdb
+C:\Users\bill\Google Drive\VS\Sloto-Matic\Sloto-Matic\bin\Debug\Sloto-Matic.xml
+C:\Users\bill\Google Drive\VS\Sloto-Matic\Sloto-Matic\obj\Debug\Sloto-Matic.vbprojResolveAssemblyReference.cache
+C:\Users\bill\Google Drive\VS\Sloto-Matic\Sloto-Matic\obj\Debug\Sloto_Matic.Form1.resources
+C:\Users\bill\Google Drive\VS\Sloto-Matic\Sloto-Matic\obj\Debug\Sloto_Matic.Resources.resources
+C:\Users\bill\Google Drive\VS\Sloto-Matic\Sloto-Matic\obj\Debug\Sloto-Matic.vbproj.GenerateResource.Cache
+C:\Users\bill\Google Drive\VS\Sloto-Matic\Sloto-Matic\obj\Debug\Sloto-Matic.exe
+C:\Users\bill\Google Drive\VS\Sloto-Matic\Sloto-Matic\obj\Debug\Sloto-Matic.xml
+C:\Users\bill\Google Drive\VS\Sloto-Matic\Sloto-Matic\obj\Debug\Sloto-Matic.pdb
+C:\Users\bill\Google Drive\VS\Sloto-Matic\Sloto-Matic\obj\Debug\Sloto_Matic.TabName.resources
+C:\Users\bill\Google Drive\VS\Sloto-Matic\Sloto-Matic\obj\Debug\Sloto_Matic.TabInfo.resources
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\bin\Debug\Sloto-Matic.exe.config
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Debug\Sloto-Matic.exe
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Debug\Sloto-Matic.xml
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Debug\Sloto-Matic.pdb
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\bin\Debug\Sloto-Matic.exe
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\bin\Debug\Sloto-Matic.pdb
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\bin\Debug\Sloto-Matic.xml
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Debug\Sloto-Matic.vbprojResolveAssemblyReference.cache
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Debug\Sloto_Matic.Form1.resources
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Debug\Sloto_Matic.Resources.resources
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Debug\Sloto_Matic.TabInfo.resources
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Debug\Sloto_Matic.TabName.resources
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\obj\Debug\Sloto-Matic.vbproj.GenerateResource.Cache
+C:\Users\Bill\Google Drive\VS\Sloto-Matic.Working\Sloto-Matic\bin\Debug\Pearl.ini
+G:\Storage\Documents\Visual Studio Working Folder\Sloto-Matic\Sloto-Matic\bin\Debug\Sloto-Matic.exe.config
+G:\Storage\Documents\Visual Studio Working Folder\Sloto-Matic\Sloto-Matic\obj\Debug\Sloto-Matic.exe
+G:\Storage\Documents\Visual Studio Working Folder\Sloto-Matic\Sloto-Matic\obj\Debug\Sloto-Matic.xml
+G:\Storage\Documents\Visual Studio Working Folder\Sloto-Matic\Sloto-Matic\obj\Debug\Sloto-Matic.pdb
